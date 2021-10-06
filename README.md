@@ -34,7 +34,7 @@
 </a>
 
 <!-- coursera -->
-<a href="https://www.coursera.org/user/fdfcd6d8c4aacee56c0ce4f62fd137a6">
+<a href="https://www.udemy.com/user/edit-profile/">
   <img align="left" alt="swati's Coursera" width="100px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
 </a>
 

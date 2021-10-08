@@ -15,37 +15,37 @@
                         <!-- links -->
 <!-- linkedin -->
 <a href="https://www.linkedin.com/in/madhur-jatiya/">
-  <img align="left" alt="swati's Linkdein" align= width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  <img align="left" alt="Madhur's Linkdein" align= width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 
 <!-- github -->
 <a href="https://github.com/Madhur-Jatiya">
-  <img align="left" alt="swati's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+  <img align="left" alt="Madhur's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 
 <!-- instagram -->
 <a href="https://www.instagram.com/madhurmoms/">
-  <img align="left" alt="swati's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="left" alt="Madhur's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <!-- youtube -->
 <a href="#">
-  <img align="left" alt="swati's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
+  <img align="left" alt="Madhur's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
 
 <!-- coursera -->
 <a href="https://www.udemy.com/user/mask-man-7/">
-  <img align="left" alt="swati's Coursera" width="100px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
+  <img align="left" alt="Madhur's Coursera" width="100px" src="download.png" />
 </a>
 
 <!-- qwiklabs -->
 <a href="https://www.qwiklabs.com/public_profiles/d9014880-0e88-42ad-abee-5e6e5e380de5">
-  <img align="left" alt="akd's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
+  <img align="left" alt="Madhur's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
 </a>
 
 <!-- hackerrank -->
 <a href="https://www.hackerrank.com/madhurmoms?hr_r=1">
-  <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
+  <img align="left" alt="Madhur's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
 
 

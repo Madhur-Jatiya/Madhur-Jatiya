@@ -63,7 +63,7 @@
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
 
-- 👷 <samp>Currently pursuing B.Tech from Jaypee Institute of information technology sector - 62 Noida
+- 👷 <samp>Currently pursuing BE/B.Tech from IET~DAVV University Indore.
  -🤔 <samp>Exploring new technologies and developing software solutions and quick hacks. 
  -🌱 <samp>Open to all Open Source Projects😋  
 - 💼 <samp>I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.
@@ -164,10 +164,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    155 commits    ██████████░░░░░░░░░░░░░░░   40.58% 
-🌆 Daytime    144 commits    █████████░░░░░░░░░░░░░░░░   37.7% 
-🌃 Evening    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
-🌙 Night      81 commits     █████░░░░░░░░░░░░░░░░░░░░   21.2%
+🌞 Morning    15 commits      ████░░░░░░░░░░░░░░░░░░░░░░░░   3.26% 
+🌆 Daytime    142 commits     ███████████░░░░░░░░░░░░░░░░░   30.86% 
+🌃 Evening    22 commits      █████░░░░░░░░░░░░░░░░░░░░░░░   4.78% 
+🌙 Night      281 commits     ███████████████░░░░░░░░░░░░░   61.08%
 
 ```
 
@@ -179,7 +179,7 @@
 
 💬 Programming Languages: 
 JavaScript               4 hrs 13 mins       ███████████████████████░░   96.94% 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77% 
+Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   0.77% 
 ReactJs, ExpressJs       5 hrs 30 mins       ████████████████████████░ 0.98%
 
 🔥 Editors: 

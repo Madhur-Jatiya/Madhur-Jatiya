@@ -51,44 +51,7 @@
   
 <hr>
 <br>
- 📈 GitHub Activity:
-  <br>
-   <br>
-    <p align="center">
-   <img width="98%" height="130%" src="https://activity-graph.herokuapp.com/graph?username=19101019&theme=react-dark"/></p>
-   
-  <p align="center"> <img height="180px"  src="https://github-readme-stats.vercel.app/api?username=19101019&show_icons=true&theme=react">
-  <p align="center">
-  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=19101019&theme=react" />
-  <img height="170px" width='375px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=19101019&layout=compact&theme=react" />
-  </p>
 
-</p><hr>
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    15 commits      ████░░░░░░░░░░░░░░░░░░░░░░░░   3.26% 
-🌆 Daytime    142 commits     ███████████░░░░░░░░░░░░░░░░░   30.86% 
-🌃 Evening    22 commits      █████░░░░░░░░░░░░░░░░░░░░░░░   4.78% 
-🌙 Night      281 commits     ███████████████░░░░░░░░░░░░░   61.08%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: India Standard Time ⌚︎
-
-💬 Programming Languages: 
-JavaScript               4 hrs 13 mins       ███████████████████████░░   96.94% 
-Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   0.77% 
-ReactJs, ExpressJs       5 hrs 30 mins       ████████████████████████░ 0.98%
-
-🔥 Editors: 
-VS Code                  4 hrs 16 mins       █████████████████████████   100.0%
-
-```
 
 
  

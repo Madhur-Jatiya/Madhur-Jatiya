@@ -41,8 +41,8 @@
 
 <hr>
 
-
-   Spotify Playing 🎧
+<h3><b><samp>Spotify Playing 🎧</samp></b></h3>
+   <!-- Spotify Playing 🎧 -->
 
 ![Spotify](https://novatorem.vercel.app/api/spotify)
 

@@ -21,12 +21,10 @@
 
 
   <!--Visitor Count-->
-<br>  
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Visitor Count</h3>
 <br>
-  <img src="https://profile-counter.glitch.me/19101019/count.svg" />
-</p>
+  <p><img src="https://profile-counter.glitch.me/19101019/count.svg"/></p>
 
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>

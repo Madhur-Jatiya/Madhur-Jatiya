@@ -79,5 +79,5 @@
   <img src="https://profile-counter.glitch.me/19101019/count.svg" />
 </p>
   
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+<!-- ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg) -->
 

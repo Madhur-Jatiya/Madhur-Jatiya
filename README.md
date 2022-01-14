@@ -11,14 +11,8 @@
   <h3 align="center"><samp> An Aspiring Full Stack Web Developer, An Open Source Contributor, UI designer and developer ☁</samp></h4></p>
    
 
-<hr>
-<!--Visitor Count-->
-<br>  
+<!-- <hr> -->
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/19101019/count.svg" />
-</p>
   
 
 
@@ -26,7 +20,13 @@
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
 
-  
+  <!--Visitor Count-->
+<br>  
+
+<h3 align="center">Connect with me:</h3>
+<br>
+  <img src="https://profile-counter.glitch.me/19101019/count.svg" />
+</p>
 
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>

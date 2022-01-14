@@ -105,8 +105,8 @@ VS Code                  4 hrs 16 mins       ███████████�
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/-swatimandal.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="www.linkedin.com/in/the-rebellious-ana"><img src="https://img.shields.io/badge/-Swati%20Mandal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:madhurjatiya13@gmail.com"><img src="https://img.shields.io/badge/-madhurjatiya13@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/madhur-jatiya/"><img src="https://img.shields.io/badge/-Swati%20Mandal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href= "mailto: madhurjatiya13@gmail.com><img src="https://img.shields.io/badge/-madhurjatiya13@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
   
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)

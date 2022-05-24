@@ -19,18 +19,21 @@
   <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
-
-  <!--Visitor Count-->
-
-<h3 align="left">Visitor Count</h3>
-<br>
-  <p><img src="https://profile-counter.glitch.me/19101019/count.svg"/></p>
-
-<div>
+<div style="float: left;">
 <!-- <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/> -->
 <img align="center" src="my3.gif" width="40%"/>
-  <br>
+</div>
 
+
+  <!-- Visitor Count -->
+<div>
+  <h3 align="left" style="float: right;">Visitor Count</h3>
+  <br>
+  <p><img src="https://profile-counter.glitch.me/19101019/count.svg"/></p>
+</div>
+
+  <br>
+<div>
 - 👷 <samp>Currently pursuing BE/B.Tech from IET~DAVV University Indore.
  -🤔 <samp>Exploring new technologies and developing software solutions and quick hacks. 
  -🌱 <samp>Open to all Open Source Projects😋  

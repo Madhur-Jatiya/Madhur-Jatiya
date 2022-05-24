@@ -24,10 +24,11 @@
 
 <h3 align="left">Visitor Count</h3>
 <br>
-  <p><img src="https://profile-counter.glitch.me/19101019/count.svg"/></p>
+  <p><img src="https://profile-counter.glitch.me/19101019/coun  t.svg"/></p>
 
 <div>
-<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+<!-- <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/> -->
+<img align="right" src="my3.svg" width="40%"/>
   <br>
 
 - 👷 <samp>Currently pursuing BE/B.Tech from IET~DAVV University Indore.

@@ -28,7 +28,7 @@
 
 <div>
 <!-- <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/> -->
-<img align="center" src="my3.gif" width="100%"/>
+<img align="center" src="my5.gif" width="100%"/>
 <img align="center" src="my4.gif" width="100%"/>
   <br>
 

@@ -8,7 +8,7 @@
   
   
   
-  <h3 align="center"><samp> An Aspiring Full Stack Web Developer, An Open Source Contributor, UI designer and developer ☁</samp></h4></p>
+  <h3 align="center"><samp> A Full Stack Web Developer, An Open Source Contributor and A Crazy person ☁</samp></h4></p>
    
 
 <!-- <hr> -->
@@ -33,11 +33,10 @@
 - 👷 <samp>Currently pursuing BE/B.Tech from IET~DAVV University Indore.
  -🤔 <samp>Exploring new technologies and developing software solutions and quick hacks. 
  -🌱 <samp>Open to all Open Source Projects😋  
-- 💼 <samp>I’m looking for **Internship/Part-Time(PPO)** Opportunities/roles.
-- 💬 <samp>Ask me about Web and App developpment tech stacks.
+- 💼 <samp>I’m looking for **Internship/Part-Time** Opportunities/roles.
+- 💬 <samp>Ask me about Web developpment or java.
 - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
-- ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am quite determined, focused annd happy-go-luck person.
-- ♟ <samp>I play a lot of chess, and I am 1200 FIDE rated.
+- ♟ <samp>I spend a lot of time with my friends who always make me happy and motivated.
 </div>
 
 
@@ -51,10 +50,10 @@
 <a href="https://linkedin.com/in/madhur-jatiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhur-jatiya" height="30" width="40" /></a>
 <a href="https://fb.com/madhurmoms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="madhurmoms" height="30" width="40" /></a>
 <a href="https://instagram.com/madhurmoms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhurmoms" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/madhurmoms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="madhurmoms" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/madhur-jatiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madhur-jatiya" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/madhurjatiya13/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/madhurjatiya13/profile" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/madhurmoms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="madhurmoms" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/madhurmoms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="madhurmoms" height="30" width="40" /></a>
 </p>
 
 

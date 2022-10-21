@@ -96,7 +96,7 @@
  
 <hr>
 
-<!-- Plzz Hire Me -->
+<!-- Plzz Hire Me  -->
    
 ![github 3 (1)](https://user-images.githubusercontent.com/70679523/173554113-246bb59a-89c1-4436-8b44-da0e5ff614e0.png)
 

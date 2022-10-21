@@ -85,8 +85,18 @@
 <h3><b><samp>Spotify Playing 🎧</samp></b></h3>
 
 ![Spotify](https://novatorem.vercel.app/api/spotify)
+
+<hr>
+
+<!-- Badges -->
+
+<h3><b><samp>Badges</samp></b></h3>
+
+[![@madhurmoms's Holopin board](https://holopin.me/madhurmoms)](https://holopin.io/@madhurmoms)
  
 <hr>
+
+<!-- Plzz Hire Me -->
    
 ![github 3 (1)](https://user-images.githubusercontent.com/70679523/173554113-246bb59a-89c1-4436-8b44-da0e5ff614e0.png)
 

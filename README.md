@@ -76,6 +76,8 @@
 
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhur-Jatiya&show_icons=true&locale=en&layout=compact" alt="Madhur-Jatiya" /></p>
+
 <hr>
 
 
@@ -100,5 +102,11 @@
    
 ![github 3 (1)](https://user-images.githubusercontent.com/70679523/173554113-246bb59a-89c1-4436-8b44-da0e5ff614e0.png)
 
+
+<hr>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Madhur-Jatiya&show_icons=true&locale=en" alt="Madhur-Jatiya" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Madhur-Jatiya&" alt="Madhur-Jatiya" /></p>
  
 

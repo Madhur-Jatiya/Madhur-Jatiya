@@ -105,6 +105,8 @@
 
 <hr>
 
+  <h3 align="left">Languages and Tools:</h3>
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Madhur-Jatiya&show_icons=true&locale=en" alt="Madhur-Jatiya" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Madhur-Jatiya&" alt="Madhur-Jatiya" /></p>

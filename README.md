@@ -1,15 +1,22 @@
-<img align="center" width="900" height = "400" src="my 4.gif">
-<p align="center"><samp><b> Hey there! <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px"> </b></samp></p>
-<p align="center"><h1 align="center"><samp> I'm Madhur Jatiya</samp></h1></p>
+<div align="center" >
+ 
+  <!-- waves -->
+  
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+ 
+  <!-- <Designer Names> -->
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=75&pause=500&color=06CD9C&vCenter=true&width=450&height=100&lines=Madhur+Jatiya;Madhurmoms;Software+Developer;)](https://git.io/typing-svg)
+ 
+ </div>
 
 
-<p align="center">
+ 
+
+###  <h3 align="center"><samp>:man_technologist: Software Developer, An Open Source Contributor and A Crazy Person ☁</samp></h4>
   
   
-  
-  
-  <h3 align="center"><samp> A Full Stack Web Developer, An Open Source Contributor and A Crazy person ☁</samp></h4></p>
-   
+     
 
 <!-- <hr> -->
 

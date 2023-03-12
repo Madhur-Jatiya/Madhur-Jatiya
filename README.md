@@ -8,29 +8,30 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=75&pause=500&color=06CD9C&vCenter=true&width=450&height=100&lines=Madhur+Jatiya;Madhurmoms;Software+Developer;)](https://git.io/typing-svg)
  
+ ###  <h3 align="center"><samp>:man_technologist: Software Developer, An Open Source Contributor and A Crazy Person ☁</samp></h3>
  </div>
 
 
- 
-
-###  <h3 align="center"><samp>:man_technologist: Software Developer, An Open Source Contributor and A Crazy Person ☁</samp></h3>
+    
     
 <!-- <about myself> -->
 <div>
-<img align="center" src="my4.gif" width="100%"/>
- <h3 align="left">About me</h3>
- 
-- 👷 <samp>Currently pursuing BE/B.Tech from IET~DAVV University Indore.
-- 🤔 <samp>Exploring new technologies and developing software solutions and quick hacks. 
-- 🌱 <samp>Open to all Open Source Projects😋  
-- 💼 <samp>I’m looking for **Internship/Part-Time** Opportunities/roles.
-- 💬 <samp>Ask me about Web developpment or java.
-- 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
-- ♟ <samp>I spend a lot of time with my friends who always make me happy and motivated.
+ <details close="true">
+ <summary><h3 align="left">  About me</h3></summary>
+ <img align="center" src="my4.gif" width="100%"/>
+
+ - 👷 <samp>Currently pursuing BE/B.Tech from IET~DAVV University Indore.
+ - 🤔 <samp>Exploring new technologies and developing software solutions and quick hacks. 
+ - 🌱 <samp>Open to all Open Source Projects😋  
+ - 💼 <samp>I’m looking for **Internship/Part-Time** Opportunities/roles.
+ - 💬 <samp>Ask me about Web developpment or java.
+ - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
+ - ♟ <samp>I spend a lot of time with my friends who always make me happy and motivated.
+
+ <hr>
+ </details>
 </div>
 
-
-<hr>
 
 <!-- Connect with me -->
 

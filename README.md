@@ -13,34 +13,16 @@
 
  
 
-###  <h3 align="center"><samp>:man_technologist: Software Developer, An Open Source Contributor and A Crazy Person ☁</samp></h4>
-  
-  
-     
-
-<!-- <hr> -->
-
-  
-
-
-  <br><br>
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
-
-
-  <!--Visitor Count-->
-
-<h3 align="left">Visitor Count</h3>
-<br>
-  <p><img src="https://profile-counter.glitch.me/19101019/count.svg"/></p>
-
+###  <h3 align="center"><samp>:man_technologist: Software Developer, An Open Source Contributor and A Crazy Person ☁</samp></h3>
+    
+<!-- <about myself> -->
 <div>
-<!-- <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/> -->
 <img align="center" src="my4.gif" width="100%"/>
-  <br>
-
+ <h3 align="left">About me</h3>
+ 
 - 👷 <samp>Currently pursuing BE/B.Tech from IET~DAVV University Indore.
- -🤔 <samp>Exploring new technologies and developing software solutions and quick hacks. 
- -🌱 <samp>Open to all Open Source Projects😋  
+- 🤔 <samp>Exploring new technologies and developing software solutions and quick hacks. 
+- 🌱 <samp>Open to all Open Source Projects😋  
 - 💼 <samp>I’m looking for **Internship/Part-Time** Opportunities/roles.
 - 💬 <samp>Ask me about Web developpment or java.
 - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming

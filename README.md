@@ -73,7 +73,7 @@
 
 <!-- Git statistics  -->
 
-<!-- <details close="true"> -->
+<details close="true">
  <summary><h3 align="left"> Git Statistics</h3></summary>
  
   <div>
@@ -81,8 +81,9 @@
   </div>
   
   <div>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhur-Jatiya&hide_border=true&bg_color=000000&theme=dark" alt="Madhur-Jatiya" width=49% />
-  </div>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhur-Jatiya&show_icons=true&theme=midnight-purple&hide_border=true" alt="Madhur-Jatiya" width=49%/>
+
+ </div>
 
   <div>
    <br>

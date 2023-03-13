@@ -2,7 +2,7 @@
  
   <!-- waves -->
   
- ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+<!--  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient) -->
  
   <!-- <Designer Names> -->
   
@@ -112,6 +112,6 @@
    
 </details>
   
-
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+<!-- waves -->
+<!--  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/> -->
 

@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=madhur-jatiya&label=Profile%20views&color=FF0000&style=flat" alt="madhur-jatiya" align="right" /> 
+
 <div align="center" >
  
   <!-- waves -->
@@ -6,7 +8,7 @@
  
   <!-- <Designer Names> -->
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=75&pause=500&color=9745f5&vCenter=true&width=450&height=100&lines=Madhur+Jatiya;Madhurmoms;Software+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=75&pause=500&color=9745f5&align=right&width=450&height=100&lines=Madhur+Jatiya;Madhurmoms;Software+Developer;)](https://git.io/typing-svg)
  
  ###  <h3 align="center"><samp>:man_technologist: Software Developer, An Open Source Contributor and A Crazy Person ☁</samp></h3>
  </div>
@@ -15,22 +17,34 @@
     
     
 <!-- <about myself> -->
-<div>
- <details close="true">
- <summary><h3 align="left">  About me</h3></summary>
- <img align="center" src="my 4.gif" width="100%"/>
-  
+
+
+<div align="left">
+
 <br><br>
   
+  <a href="https://app.daily.dev/madhurmoms" target="_blank">
+    <img
+      width="350"
+      align="right"
+      src="https://api.daily.dev/devcards/abf19e99c9ef498fb2c1da918b147956.png?r=tnx" width="400" alt="Madhurmoms's Dev Card"
+    />
+  </a>
+</div>
+
+
+
+<h3 align="left">  About me</h3>
+
  - 👷 <samp>Currently pursuing BE/B.Tech from IET~DAVV University Indore.
  - 🤔 <samp>Exploring new technologies and developing software solutions and quick hacks. 
  - 🌱 <samp>Open to all Open Source Projects😋  
  - 💼 <samp>I’m looking for **Internship/Part-Time** Opportunities/roles.
  - 💬 <samp>Ask me about Web developpment or java.
  - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
- - ♟ <samp>I spend a lot of time with my friends who always make me happy and motivated. <img src="https://komarev.com/ghpvc/?username=madhur-jatiya&label=Profile%20views&color=FF0000&style=flat" alt="madhur-jatiya" align="right" />  <hr>
- </details>
-</div>
+ - ♟ <samp>I spend a lot of time with my friends who always make me happy and motivated. 
+
+<br>
 
 
 <!-- Connect with me -->
@@ -73,8 +87,11 @@
 
 <!-- Git statistics  -->
 
-<details close="true">
- <summary><h3 align="left"> Git Statistics</h3></summary>
+
+<!--   <details close="true">
+ <summary><h3 align="left"> Git Statistics</h3></summary> -->
+  <h3 align="left"> Git Statistics</h3>
+  
  
   <div>
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhur-Jatiya&hide_border=true&bg_color=000000&theme=midnight-purple" alt="Madhur-Jatiya" width=46%  />

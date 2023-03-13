@@ -61,7 +61,11 @@
 <!-- Badges -->
 
 <h3 align="left"> Badges</h3>
-[![@madhurmoms's Holopin board](https://holopin.me/madhurmoms)](https://holopin.io/@madhurmoms) <hr>
+
+ [![An image of @madhurmoms's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhurmoms)](https://holopin.io/@madhurmoms)
+
+ 
+ <hr>
 
 <!-- Plzz Hire Me  -->  
  
@@ -74,16 +78,14 @@
   
 <!-- Git statistics  -->
 
-  <details close="true">
+<details close="true">
  <summary><h3 align="left"> Git statistics</h3></summary>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhur-Jatiya&show_icons=true&locale=en&layout=compact&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" 
-    alt="Madhur-Jatiya" height=200px />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhur-Jatiya&show_icons=true&locale=en&layout=compact&theme=dark" 
+        alt="Madhur-Jatiya" height=200px />
 
-  <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhur-Jatiya&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" alt="Madhur-Jatiya" height=200px/> </p>
-  
-   <img
-      align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Madhur-Jatiya&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" />
-  </details>
+   <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhur-Jatiya&theme=dark" alt="Madhur-Jatiya" height=200px/> </p>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Madhur-Jatiya&theme=dark" />
+</details>
   
 
  

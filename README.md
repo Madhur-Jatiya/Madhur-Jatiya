@@ -80,7 +80,7 @@
 
   <div>
    <br>
-   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Madhur-Jatiya&theme=dark"  width=50% />
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Madhur-Jatiya&theme=dark"  width=49% />
   </div>
  
 <!--   <div>

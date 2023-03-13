@@ -60,15 +60,15 @@
 
 <!-- Badges -->
 
-<h3 align="left"> Earn Badges</h3>
+<h3 align="left"> Earned Badges</h3>
 
  [![An image of @madhurmoms's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhurmoms)](https://holopin.io/@madhurmoms) <hr>
 
   
 <!-- Git statistics  -->
 
-<details close="true">
- <summary><h3 align="left"> Git statistics</h3></summary>
+<details close="false">
+ <summary><h3 align="left"> Git Statistics</h3></summary>
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhur-Jatiya&show_icons=true&locale=en&layout=compact&theme=dark" 
         alt="Madhur-Jatiya" height=200px />
 

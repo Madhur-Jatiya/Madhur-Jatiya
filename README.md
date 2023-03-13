@@ -60,20 +60,9 @@
 
 <!-- Badges -->
 
-<h3 align="left"> Badges</h3>
+<h3 align="left"> Earn Badges</h3>
 
- [![An image of @madhurmoms's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhurmoms)](https://holopin.io/@madhurmoms)
-
- 
- <hr>
-
-<!-- Plzz Hire Me  -->  
- 
-<details close="true">
-  <summary><h3 align="left"> Earn More</h3></summary>
-  ![github 3 (1)](https://user-images.githubusercontent.com/70679523/173554113-246bb59a-89c1-4436-8b44-da0e5ff614e0.png) <hr>
-
-</details>
+ [![An image of @madhurmoms's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhurmoms)](https://holopin.io/@madhurmoms) <hr>
 
   
 <!-- Git statistics  -->
@@ -88,5 +77,5 @@
 </details>
   
 
- 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 

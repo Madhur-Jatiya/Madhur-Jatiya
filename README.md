@@ -77,11 +77,11 @@
  <summary><h3 align="left"> Git Statistics</h3></summary>
  
   <div>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhur-Jatiya&hide_border=true&bg_color=000000&theme=dark" alt="Madhur-Jatiya" width=46%  />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhur-Jatiya&hide_border=true&bg_color=000000&theme=midnight-purple" alt="Madhur-Jatiya" width=46%  />
   </div>
   
   <div>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhur-Jatiya&show_icons=true&theme=midnight-purple&hide_border=true" alt="Madhur-Jatiya" width=49%/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhur-Jatiya&theme=midnight-purple&hide_border=true" alt="Madhur-Jatiya" width=49%/>
 
  </div>
 

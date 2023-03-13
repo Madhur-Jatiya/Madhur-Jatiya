@@ -77,23 +77,23 @@
  <summary><h3 align="left"> Git Statistics</h3></summary>
  
   <div>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhur-Jatiya&theme=dark" alt="Madhur-Jatiya" width=46%  />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhur-Jatiya&hide_border=true&bg_color=000000&theme=dark" alt="Madhur-Jatiya" width=46%  />
   </div>
   
   <div>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhur-Jatiya&theme=dark" alt="Madhur-Jatiya" width=49% />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhur-Jatiya&hide_border=true&bg_color=000000&theme=dark" alt="Madhur-Jatiya" width=49% />
   </div>
 
   <div>
    <br>
-   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Madhur-Jatiya&theme=midnight-purple"  width=49% />
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Madhur-Jatiya&theme=midnight-purple&hide_border=true"  width=49% />
   </div>
  
  
 <div> <br>
    <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
   <a href="https://github.com/Madhur-jatiya/github-readme-activity-graph"><img alt="Madhurmoms Activity Graph" 
-  src="https://github-readme-activity-graph.cyclic.app/graph/?username=Madhur-Jatiya&bg_color=1F222E&color=F8D866&line=9745f5&point=FFFFFF&hide_border=true" /></a>
+  src="https://github-readme-activity-graph.cyclic.app/graph/?username=Madhur-Jatiya&bg_color=000000&color=F8D866&line=9745f5&point=blue&hide_border=true" /></a>
 </div>
 
  

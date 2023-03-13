@@ -60,21 +60,20 @@
 
 <!-- Badges -->
 
-<h3 align="left"> Earned Badges</h3>
+<h3 align="left"> Earned Badges & Trophy</h3>
 
+<div align="center">
+
+ ![Trophies](https://github-profile-trophy-arasgungore.vercel.app/?username=madhur-jatiya&no-frame=true&no-bg=true&theme=matrix&column=7&rank=-?) <br><br>
+ 
  [![An image of @madhurmoms's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhurmoms)](https://holopin.io/@madhurmoms) <hr>
 
-  
+</div>
+
 <!-- Git statistics  -->
 
-<!-- <details close="true"> -->
+<details close="true">
  <summary><h3 align="left"> Git Statistics</h3></summary>
- 
-  <div align="center">
-   
-   ![Trophies](https://github-profile-trophy-arasgungore.vercel.app/?username=madhur-jatiya&no-frame=true&no-bg=true&theme=matrix&column=7&rank=-?)
- 
- </div>
  
   <div>
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhur-Jatiya&theme=dark" alt="Madhur-Jatiya" width=46%  />

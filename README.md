@@ -52,46 +52,39 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-
-
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a
 </p>
 
 <hr>
 
 
-
-<!-- Spotify Playing 🎧 -->
-
-<h3><b><samp>Spotify Playing 🎧</samp></b></h3>
-
-![Spotify](https://novatorem.vercel.app/api/spotify)
-
-<hr>
-
 <!-- Badges -->
 
-<h3><b><samp>Badges</samp></b></h3>
+<h3 align="left"> Badges</h3>
+[![@madhurmoms's Holopin board](https://holopin.me/madhurmoms)](https://holopin.io/@madhurmoms) <hr>
 
-[![@madhurmoms's Holopin board](https://holopin.me/madhurmoms)](https://holopin.io/@madhurmoms)
+<!-- Plzz Hire Me  -->  
  
-<hr>
+<details close="true">
+  <summary><h3 align="left"> Earn More</h3></summary>
+  ![github 3 (1)](https://user-images.githubusercontent.com/70679523/173554113-246bb59a-89c1-4436-8b44-da0e5ff614e0.png) <hr>
 
-<!-- Plzz Hire Me  -->
-   
-![github 3 (1)](https://user-images.githubusercontent.com/70679523/173554113-246bb59a-89c1-4436-8b44-da0e5ff614e0.png)
+</details>
 
-
-<hr>
-
-  <h3 align="left">Languages and Tools:</h3>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhur-Jatiya&show_icons=true&locale=en&layout=compact" alt="Madhur-Jatiya" /></p>
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhur-Jatiya&show_icons=true&locale=en" alt="Madhur-Jatiya" /></p> 
+<!-- Git statistics  -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Madhur-Jatiya&" alt="Madhur-Jatiya" /></p>
+  <details close="true">
+ <summary><h3 align="left"> Git statistics</h3></summary>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhur-Jatiya&show_icons=true&locale=en&layout=compact&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" 
+    alt="Madhur-Jatiya" height=200px />
+
+  <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhur-Jatiya&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" alt="Madhur-Jatiya" height=200px/> </p>
+  
+   <img
+      align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Madhur-Jatiya&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" />
+  </details>
+  
+
  
 

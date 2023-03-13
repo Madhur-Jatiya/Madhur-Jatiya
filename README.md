@@ -67,7 +67,7 @@
   
 <!-- Git statistics  -->
 
-<!-- <details close="true"> -->
+<details close="true">
  <summary><h3 align="left"> Git Statistics</h3></summary>
  
   <div>

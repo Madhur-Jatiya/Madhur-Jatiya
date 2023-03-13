@@ -92,9 +92,8 @@
  
  
 <div> <br>
-   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <a href="https://github.com/Madhur-jatiya/github-readme-activity-graph"><img alt="Madhurmoms Activity Graph" 
-  src="https://github-readme-activity-graph.cyclic.app/graph/?username=Madhur-Jatiya&bg_color=000000&color=f5f5f5&line=9745f5&point=blue&hide_border=true" /></a>
+  <img alt="Madhurmoms Activity Graph" 
+  src="https://github-readme-activity-graph.cyclic.app/graph/?username=Madhur-Jatiya&bg_color=000000&color=f5f5f5&line=9745f5&point=blue&hide_border=true" />
 </div>
 
  

@@ -67,8 +67,14 @@
   
 <!-- Git statistics  -->
 
-<details close="true">
+<!-- <details close="true"> -->
  <summary><h3 align="left"> Git Statistics</h3></summary>
+ 
+  <div align="center">
+   
+   ![Trophies](https://github-profile-trophy-arasgungore.vercel.app/?username=madhur-jatiya&no-frame=true&no-bg=true&theme=matrix&column=7&rank=-?)
+ 
+ </div>
  
   <div>
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhur-Jatiya&theme=dark" alt="Madhur-Jatiya" width=46%  />
@@ -81,13 +87,27 @@
   <div>
    <br>
    <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Madhur-Jatiya&theme=dark"  width=49% />
+   
   </div>
  
+ 
+
+
+ 
 <!--   <div>
+   <br><br>
+   <a href="https://app.dooboo.io/madhur-jatiya" ><img align="right" src="https://server.dooboo.io/github-stats/madhur-jatiya" width=47% /></a>
+  </div>
+ 
+  <div>
+   <br><br>
    
- <a href="https://github.com/madhurmoms/github-contributor-stats">![madhurmom's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=madhur-jatiya&combine_all_yearly_contributions=true&hide=B,B+&theme=dark)</a>
+ <a href="https://github.com/madhur-jatiya/github-contributor-stats" width=40% >![Madhurmom's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=madhur-jatiya&combine_all_yearly_contributions=true&hide=B,B+&theme=dark)</a> 
    
-  </div> -->
+ </div> -->
+ 
+ 
+
   </div>
    
 </details>

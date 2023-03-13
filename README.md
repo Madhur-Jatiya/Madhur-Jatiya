@@ -6,7 +6,7 @@
  
   <!-- <Designer Names> -->
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=75&pause=500&color=06CD9C&vCenter=true&width=450&height=100&lines=Madhur+Jatiya;Madhurmoms;Software+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=75&pause=500&color=9745f5&vCenter=true&width=450&height=100&lines=Madhur+Jatiya;Madhurmoms;Software+Developer;)](https://git.io/typing-svg)
  
  ###  <h3 align="center"><samp>:man_technologist: Software Developer, An Open Source Contributor and A Crazy Person ☁</samp></h3>
  </div>
@@ -93,7 +93,7 @@
 <div> <br>
    <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
   <a href="https://github.com/Madhur-jatiya/github-readme-activity-graph"><img alt="Madhurmoms Activity Graph" 
-  src="https://github-readme-activity-graph.cyclic.app/graph/?username=Madhur-Jatiya&bg_color=000000&color=F8D866&line=9745f5&point=blue&hide_border=true" /></a>
+  src="https://github-readme-activity-graph.cyclic.app/graph/?username=Madhur-Jatiya&bg_color=000000&color=f5f5f5&line=9745f5&point=blue&hide_border=true" /></a>
 </div>
 
  

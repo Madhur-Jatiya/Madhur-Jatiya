@@ -64,8 +64,9 @@
 
 <div align="center">
 
- ![Trophies](https://github-profile-trophy-arasgungore.vercel.app/?username=madhur-jatiya&no-frame=true&no-bg=true&theme=matrix&column=7&rank=-?) <br><br>
+ ![Trophies](https://github-profile-trophy-arasgungore.vercel.app/?username=madhur-jatiya&no-frame=true&no-bg=true&theme=onedark&column=7&rank=-?) <br><br>
  
+<!--  (https://github.com/ryo-ma/github-profile-trophy) -->
  [![An image of @madhurmoms's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhurmoms)](https://holopin.io/@madhurmoms) <hr>
 
 </div>

@@ -18,17 +18,17 @@
 <div>
  <details close="true">
  <summary><h3 align="left">  About me</h3></summary>
- <img align="center" src="my4.gif" width="100%"/>
-
+ <img align="center" src="my 4.gif" width="100%"/>
+  
+<br><br>
+  
  - 👷 <samp>Currently pursuing BE/B.Tech from IET~DAVV University Indore.
  - 🤔 <samp>Exploring new technologies and developing software solutions and quick hacks. 
  - 🌱 <samp>Open to all Open Source Projects😋  
  - 💼 <samp>I’m looking for **Internship/Part-Time** Opportunities/roles.
  - 💬 <samp>Ask me about Web developpment or java.
  - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
- - ♟ <samp>I spend a lot of time with my friends who always make me happy and motivated.
-
- <hr>
+ - ♟ <samp>I spend a lot of time with my friends who always make me happy and motivated. <img src="https://komarev.com/ghpvc/?username=madhur-jatiya&label=Profile%20views&color=FF0000&style=flat" alt="madhur-jatiya" align="right" />  <hr>
  </details>
 </div>
 

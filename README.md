@@ -73,7 +73,7 @@
 
 <!-- Git statistics  -->
 
-<details close="true">
+<!-- <details close="true"> -->
  <summary><h3 align="left"> Git Statistics</h3></summary>
  
   <div>
@@ -86,12 +86,15 @@
 
   <div>
    <br>
-   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Madhur-Jatiya&theme=dark"  width=49% />
-   
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Madhur-Jatiya&theme=midnight-purple"  width=49% />
   </div>
  
  
-
+<div> <br>
+   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+  <a href="https://github.com/Madhur-jatiya/github-readme-activity-graph"><img alt="Madhurmoms Activity Graph" 
+  src="https://github-readme-activity-graph.cyclic.app/graph/?username=Madhur-Jatiya&bg_color=1F222E&color=F8D866&line=9745f5&point=FFFFFF&hide_border=true" /></a>
+</div>
 
  
 <!--   <div>

@@ -8,7 +8,7 @@
  
   <!-- <Designer Names> -->
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=75&pause=500&color=9745f5&align=right&width=450&height=100&lines=Madhur+Jatiya;Madhurmoms;Software+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=75&pause=500&color=9745f5&align=right&width=450&height=120&lines=Madhur+Jatiya;Madhurmoms;Software+Developer;)](https://git.io/typing-svg)
  
  ###  <h3 align="center"><samp>:man_technologist: Software Developer, An Open Source Contributor and A Crazy Person ☁</samp></h3>
  </div>

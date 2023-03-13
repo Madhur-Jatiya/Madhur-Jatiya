@@ -67,13 +67,29 @@
   
 <!-- Git statistics  -->
 
-<details close="false">
+<!-- <details close="true"> -->
  <summary><h3 align="left"> Git Statistics</h3></summary>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhur-Jatiya&show_icons=true&locale=en&layout=compact&theme=dark" 
-        alt="Madhur-Jatiya" height=200px />
+ 
+  <div>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhur-Jatiya&theme=dark" alt="Madhur-Jatiya" width=46%  />
+  </div>
+  
+  <div>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhur-Jatiya&theme=dark" alt="Madhur-Jatiya" width=49% />
+  </div>
 
-   <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhur-Jatiya&theme=dark" alt="Madhur-Jatiya" height=200px/> </p>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Madhur-Jatiya&theme=dark" />
+  <div>
+   <br>
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Madhur-Jatiya&theme=dark"  width=50% />
+  </div>
+ 
+<!--   <div>
+   
+ <a href="https://github.com/madhurmoms/github-contributor-stats">![madhurmom's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=madhur-jatiya&combine_all_yearly_contributions=true&hide=B,B+&theme=dark)</a>
+   
+  </div> -->
+  </div>
+   
 </details>
   
 

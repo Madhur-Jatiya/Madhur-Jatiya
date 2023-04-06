@@ -54,7 +54,7 @@
     <tr>
         <td align="center" width="96">
             <a href="https://twitter.com/@jatiyamadhur" target="blank">
-               <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+               <img src="https://skillicons.dev/icons?i=twitter" 
                  width="48" height="48" alt="Dart" />
            </a>
             <br />
@@ -62,7 +62,7 @@
         </td>
         <td align="center" width="96">
             <a href="https://linkedin.com/in/madhur-jatiya" target="blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+          <img src="https://skillicons.dev/icons?i=linkedin" 
                  width="48" height="48" alt="Flutter" />
            </a>
             <br />
@@ -70,7 +70,7 @@
         </td>
         <td align="center" width="96">
            <a href="https://fb.com/madhurmoms" target="blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+          <img src="https://img.icons8.com/fluency/144/000000/facebook-new.png" 
                  width="48" height="48" alt="Postman" />
            </a>
             <br />
@@ -78,7 +78,7 @@
         </td>
         <td align="center" width="96">
          <a href="https://instagram.com/madhurmoms" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            <img src="https://img.icons8.com/fluency/144/000000/instagram-new.png"
                  width="48" height="48" alt="ASP.NET Core" /><a>
             <br />
             Instagram
@@ -87,28 +87,27 @@
     <tr>
         <td align="center" width="96">
          <a href="https://www.leetcode.com/madhur-jatiya" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+            <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"
                  width="48" height="48" alt="mysql" /></a>
             <br />
             Leetcode
         </td>
         <td align="center" width="96">
          <a href="https://auth.geeksforgeeks.org/user/madhurjatiya13/profile" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" 
+            <img src="https://img.icons8.com/color/144/000000/GeeksforGeeks.png" 
                  width="48" height="48" alt="jquery" /> </a>
             <br />
             GFG
         </td>
         <td align="center" width="96">
          <a href="https://www.hackerrank.com/madhurmoms" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-                 width="48" height="48" alt="Dart" /> </a>
+             <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="48" height="48" alt="Dart" /> </a>
             <br />
             Hackerrank
         </td>
         <td align="center" width="96">
          <a href="https://www.codechef.com/users/madhurmoms" target="blank">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="48" height="48" alt="Flutter" /> </a>
+            <img src="https://img.icons8.com/color/144/000000/codechef.png" width="48" height="48" alt="Flutter" /> </a>
             <br />
             CodeChef
         </td>
@@ -127,7 +126,7 @@
 <h3>Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,eclipse," />
+    <img src="https://skillicons.dev/icons?i=vscode,github,eclipse,postman" />
   </a>
 </p>
 

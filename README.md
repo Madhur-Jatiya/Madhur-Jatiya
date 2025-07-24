@@ -116,7 +116,7 @@
 
   <!-- GitHub Summary Stats (Commits, Stars, PRs, etc.) -->
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhur-Jatiya&theme=midnight-purple&hide_border=true" alt="Madhur-Jatiya" width=49%/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhur-Jatiya&theme=midnight-purple&hide_border=true" alt="Madhur-Jatiya" width=48%/>
 
   <!-- Streak Counter -->
   <br>

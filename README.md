@@ -120,7 +120,7 @@
 
   <!-- Streak Counter -->
   <br>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Madhur-Jatiya&theme=midnight-purple&hide_border=true" width=49% />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Madhur-Jatiya&theme=midnight-purple&hide_border=true" width=48% />
 </div>
 
 <!-- Activity Graph -->

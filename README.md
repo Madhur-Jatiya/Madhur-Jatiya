@@ -1,10 +1,10 @@
+  <!-- waves -->
+  
+![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+
 <img src="https://komarev.com/ghpvc/?username=madhur-jatiya&label=Profile%20views&color=FF0000&style=flat" alt="madhur-jatiya" align="right" /> 
 
 <div align="center" >
- 
-  <!-- waves -->
-  
-<!--  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient) -->
  
   <!-- <Designer Names> -->
   
@@ -12,14 +12,11 @@
  
  ###  <h3 align="center"><samp>:man_technologist: Software Developer, An Open Source Contributor and A Crazy Person ☁</samp></h3>
  </div>
-
-
     
     
 <!-- <about myself> -->
 
-
-<div align="left">
+<div align="right">
 
 <br><br>
   
@@ -32,17 +29,16 @@
   </a>
 </div>
 
-
-
 <h3 align="left">  About me</h3>
 
- - 👷 <samp>Currently pursuing BE/B.Tech from IET~DAVV University Indore.
- - 🤔 <samp>Exploring new technologies and developing software solutions and quick hacks. 
- - 🌱 <samp>Open to all Open Source Projects😋  
- - 💼 <samp>I’m looking for **Internship/Part-Time** Opportunities/roles.
- - 💬 <samp>Ask me about Web developpment or java.
- - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
- - ♟ <samp>I spend a lot of time with my friends who always make me happy and motivated. 
+- 👨‍💻 <samp> Full-Stack Developer passionate about crafting clean, scalable, and maintainable systems.</samp>  
+- 🧠 <samp> Enjoys solving complex backend challenges and building intuitive frontend experiences.</samp>  
+- 🚀 <samp> Skilled in Java, Python, ReactJS, Spring Boot, FastAPI, Docker, Kubernetes, and Terraform.</samp>  
+- 🌐 <samp> Experienced in building metadata engines, ingestion frameworks, and observability dashboards.</samp>  
+- 🔧 <samp> Follows DevOps best practices with CI/CD pipelines, containerization, and infrastructure as code.</samp>  
+- 🌱 <samp> Lifelong learner exploring system design, cloud-native patterns, and AI integration.</samp>  
+- 🎯 <samp> Believes in shipping high-impact features that improve performance, reliability, and user experience.</samp>  
+- 💬 <samp> Always up for a discussion on technology, architecture, or open-source collaboration.</samp>
 
  
 <!-- Connect with me -->
@@ -130,30 +126,24 @@
   </a>
 </p>
 
-
 <hr>
 
-
-<!-- Badges -->
+<!-- Badges and Trophies -->
 
 <h3 align="left"> Earned Badges & Trophy</h3>
 
 <div align="center">
 
- ![Trophies](https://github-profile-trophy-arasgungore.vercel.app/?username=madhur-jatiya&no-frame=true&no-bg=true&theme=onedark&column=7&rank=-?) <br><br>
+ ![Trophies](https://github-profile-trophy.vercel.app/?username=madhur-jatiya&no-frame=true&no-bg=true&theme=onedark&column=7) 
+ <br><br>
  
-<!--  (https://github.com/ryo-ma/github-profile-trophy) -->
  [![An image of @madhurmoms's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhurmoms)](https://holopin.io/@madhurmoms) <hr>
 
 </div>
 
 <!-- Git statistics  -->
 
-
-<!--   <details close="true">
- <summary><h3 align="left"> Git Statistics</h3></summary> -->
   <h3 align="left"> Git Statistics</h3>
-  
  
   <div>
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhur-Jatiya&hide_border=true&bg_color=000000&theme=midnight-purple" alt="Madhur-Jatiya" width=46%  />
@@ -195,5 +185,5 @@
 </details>
   
 <!-- waves -->
-<!--  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/> -->
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
